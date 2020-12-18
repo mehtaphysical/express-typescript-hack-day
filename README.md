@@ -1,4 +1,4 @@
-# React with TypeScript
+# TypeScript
 
 ## Background
 
@@ -46,9 +46,13 @@ The source code is interpreted and executed line by line at runtime.
 * Generics
   * findByName
 
-## Express
+## Examples
 
-* model interface
-* model class
-  * row type
-* express routes
+* reverseStack(stack, resultStack)
+  * create stack interface
+  * use stack interface in function
+  * array implements stack
+* BinarySearchTree with TypeScript Generics
+  * TreeNode type
+  * BinarySearchTree class
+    * duck type TreeNode
